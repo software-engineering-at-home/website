@@ -1,0 +1,33 @@
+[
+  {
+    "title": "Home",
+    "children": [
+      "",
+      "01-first-page.md",
+      "02-second-page.md"
+    ]
+  },
+  {
+    "title": "First Section",
+    "children": [
+      "/01-first-section/",
+      "/01-first-section/01-first-section-page.md"
+    ]
+  },
+  {
+    "title": "Second Section",
+    "children": [
+      "/02-second-section/",
+      "/02-second-section/01-second-section-page.md"
+    ]
+  },
+  {
+    "title": "Components",
+    "children": [
+      "/components/",
+      "/components/01-icon-browser.md",
+      "/components/02-formatting-components.md",
+      "/components/03-networking-components.md"
+    ]
+  }
+]
