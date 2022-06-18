@@ -49,7 +49,7 @@ function addTitle (acc, item) {
   return acc
 }
 
-function addList (acc, item) {
+function addList (acc) {
   acc.currentList = []
   append(acc.currentNode, 'items', acc.currentList)
   return acc
