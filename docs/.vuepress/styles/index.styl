@@ -44,6 +44,7 @@ header.navbar > div.links {
 }
 
 div.sidebar-button {
+  color: $primary;
 }
 
 aside.sidebar {
@@ -61,4 +62,13 @@ main.page {
 
 .theme-default-content:not(.custom) img {
   max-width: 100%;
+}
+
+@media (max-width: 719px) {
+  .search-box {
+    margin-right: 1rem;
+  }
+  header.navbar > a > span.site-name {
+    display: none;
+  }
 }
