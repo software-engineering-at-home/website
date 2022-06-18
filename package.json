@@ -1,5 +1,6 @@
 {
-  "name": "vuesite-template",
+  "name": "software-engineering-at-home-website",
+  "title": "Software Engineering at Home",
   "version": "1.0.0",
   "description": "A self hosted toolset for building interactive websites on top of Vuepress.",
   "main": "first-time-setup.js",
@@ -17,15 +18,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/connected-web/vuesite-template.git"
+    "url": "git+https://github.com/software-engineering-at-home/website.git"
   },
   "keywords": [],
   "author": "Connected Web",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/connected-web/vuesite-template/issues"
+    "url": "https://github.com/software-engineering-at-home/website/issues"
   },
-  "homepage": "https://github.com/connected-web/vuesite-template#readme",
+  "homepage": "https://github.com/software-engineering-at-home/website#readme",
   "dependencies": {
     "@fortawesome/fontawesome-svg-core": "^6.1.0",
     "@fortawesome/free-solid-svg-icons": "^6.1.0",

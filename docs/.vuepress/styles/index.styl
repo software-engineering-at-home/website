@@ -1,3 +1,60 @@
+@import url(https://fonts.googleapis.com/css?family=Open+Sans);
+@import url(https://fonts.googleapis.com/css?family=Ubuntu+Mono);
+
+h1, h2, h3, h4, h5 {
+  font-family: Helvetica, 'Open Sans', sans-serif;
+}
+
+html, body { font-family: 'Ubuntu Mono', monospace; }
+
 header.navbar, header.navbar > div.links {
-  background: #eee;
+  background-color: $dark;
+}
+
+header.navbar::after {
+  display: block;
+  position: absolute;
+  top: 0;
+  right: 0;
+  background: url(https://software-engineering-at-home.github.io/branding/graphics/seath-logo.svg)
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center right;
+  content: " "
+  height: 100%;
+  width: 100px;
+}
+
+header.navbar > a > span.site-name {
+  color: $light;
+}
+
+header.navbar > a.home-link {
+  font-family: Helvetica;
+}
+
+header.navbar > div.links {
+  right: 100px;
+  a {
+    color: $secondary;
+  }
+  a:hover {
+    color: $primary;
+  }
+}
+
+div.sidebar-button {
+}
+
+aside.sidebar {
+  background: lighten($secondary, 0%);
+}
+
+main.page {
+  a {
+    color: $tertiary;
+  }
+  a:hover {
+    color: $dark;
+  }
 }

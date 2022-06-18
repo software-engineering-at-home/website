@@ -7,7 +7,7 @@ const { clearInterval } = require('timers')
 async function report (...messages) { console.log(`[${packageJson.name} / ${__filename.split(path.sep).pop().split('.js').shift()}]`, ...messages) }
 
 function startServer () {
-  const serverStartCommand = 'npm start'
+  const serverStartCommand = 'npm run vuepress'
   const spawnArgs = serverStartCommand.split(' ')
   const [first, ...rest] = spawnArgs
   const refProcess = spawn(first, rest)
@@ -40,8 +40,45 @@ function startServer () {
   return processState
 }
 
+async function findChildProcesses(filter) {
+  const result = await run('ps aux')
+  const list = result.stdout.split('\n')
+  const filteredProcesses = list.filter(n => n.includes(filter)).map(line => {
+    const [user, pid, cpu, mem, vsz, rss, tty, stat, start, time, command, ...args] = line.split(' ').filter(n => n)
+    return {
+      user,
+      pid,
+      cpu,
+      mem,
+      vsz,
+      rss,
+      tty,
+      stat,
+      start,
+      time,
+      command,
+      args
+    }
+  })
+
+  return filteredProcesses
+}
+
+async function killOutstandingProcesses({ refProcess }) {
+  refProcess.kill()
+  const vuepressProcs = await findChildProcesses('vuepress')
+  const pidsToKill = vuepressProcs.map(({ pid }) => pid)
+
+  const killCommand = `kill ${pidsToKill.join(' ')}`
+  console.log('Vuepress processes:', killCommand)
+
+  const { stdout, stderr } = run(killCommand)
+  console.log(stderr || stdout || 'Kill complete')
+}
+
 async function takeScreenshot (url) {
   const screenshotFile = 'screenshot.png'
+
   report('Taking screenshot!')
   const screenshotCommand = `npx capture-website ${url} --output ${screenshotFile} --width 800 --height 600 --delay 1 --overwrite`
   report(`Running: ${screenshotCommand}`)
@@ -69,9 +106,14 @@ async function generateScreenshot () {
         setTimeout(async () => {
           report('Matched URL in server start output:', url)
           await takeScreenshot(url)
+          report('Finished with screenshot')
           clearInterval(processInfoCleardown)
-          processState.refProcess.kill()
+          await killOutstandingProcesses(processState)
         }, 0)
+        setTimeout(() => {
+          report('Decided to force kill process')
+          process.exit(0)
+        }, 5000)
       }
       console.log(line)
     }

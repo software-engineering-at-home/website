@@ -1,4 +1,4 @@
-# Vuesite Template
+# Your new Vuesite!
 
 A self hosted toolset for building interactive websites on top of Vuepress.
 
@@ -17,7 +17,7 @@ A self hosted toolset for building interactive websites on top of Vuepress.
 - Deployed automatically via GitHub Actions
 
 If setup correctly (see below); you should be able to access this site on:
-- https://connected-web.github.io/vuesite-template/
+- https://software-engineering-at-home.github.io/website/
 
 ## Development Support
 
@@ -29,11 +29,11 @@ If setup correctly (see below); you should be able to access this site on:
 ## How to get started
 
 - Make sure you have the latest version [Node LTS](https://nodejs.org/en/) installed
-- Copy [this template in GitHub](https://github.com/connected-web/vuesite-template/generate)
+- Copy [this template in GitHub](https://github.com/software-engineering-at-home/website/generate)
 - Check out the code locally
 - Run: `npm install`
 - Run: `node first-time-setup.js`
-- Go to [Github > Settings > Pages](https://github.com/connected-web/vuesite-template/settings/pages) and enable publishing from the `gh-pages` branch
+- Go to [Github > Settings > Pages](https://github.com/software-engineering-at-home/website/settings/pages) and enable publishing from the `gh-pages` branch
 
 ## Licenses
 

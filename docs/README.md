@@ -1,5 +1,15 @@
 # Home
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec suscipit leo. Nulla facilisi. Nullam non est libero. Donec sed ligula sagittis, ultrices lacus sit amet, ultricies neque. Vestibulum sagittis sagittis tellus ut cursus. Etiam quam nunc, sodales vel nibh eget, ultrices molestie massa. Sed sem diam, iaculis vel erat id, dapibus scelerisque dolor. Proin lacus ex, varius id eros sit amet, porta finibus justo. Integer ornare rhoncus lacinia.
+![Software Engineering at Home Banner](https://software-engineering-at-home.github.io/branding/graphics/seath-branding.png)
 
-Integer sed neque et elit scelerisque condimentum. Ut nec posuere neque. Suspendisse eu gravida tellus. Vestibulum felis libero, tincidunt iaculis laoreet at, tristique a dui. Praesent id egestas augue, eu tincidunt urna. Ut eu lectus vehicula ligula viverra iaculis vel at nulla. Sed at nibh eu nulla aliquet placerat eu nec nunc. Phasellus varius finibus ante, vitae aliquam nisl rutrum sed. Aliquam mollis, nibh tristique viverra pulvinar, libero justo laoreet tellus, id feugiat mauris metus imperdiet est. Integer luctus lobortis velit. Nullam nisl quam, pellentesque vitae velit ac, dapibus commodo urna. Vestibulum a justo eget enim dignissim pharetra. Quisque nibh est, pretium id ante non, porttitor blandit odio.
+## Why
+
+Content to teach the world about software, programming, and engineering topics of interest - to engage with excellence and the distribution of great ideas.
+
+## How
+
+To help put together this knowledge; the [software-engineering-at-home organisation](https://github.com/software-engineering-at-home), has been created as a home for content - such that topics about software, programming, and engineering can be brought together and made available through GitHub, Twitter, and YouTube. 
+
+## What
+
+This website; the Github repository, the YouTube channel, the Twitter page. The content, the users, the feedback you give me!
