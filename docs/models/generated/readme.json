@@ -1,0 +1,47 @@
+{
+  "sections": [
+    {
+      "title": "Content for Software Engineering at Home",
+      "items": [
+        ""
+      ]
+    },
+    {
+      "title": "Why",
+      "items": [
+        "Content to teach the world about software, programming, and engineering topics of interest."
+      ]
+    },
+    {
+      "title": "How",
+      "items": [
+        "To help put together this knowledge; the software-engineering-at-home organisation, has been created as a home for content - such that topics about software, programming, and engineering can be brought together and made available through GitHub, Twitter, and YouTube."
+      ]
+    },
+    {
+      "title": "What",
+      "items": [
+        "This repo contains:",
+        [
+          "Content planning",
+          "Listing out future topics",
+          "Grouping topics",
+          "Writing up key points and research",
+          "Acting as an index for video and code content"
+        ]
+      ]
+    },
+    {
+      "title": "Where next",
+      "items": [
+        "See:",
+        [
+          "Slide Viewer to navigate the content as presentable slides",
+          "TOPICS for a list of planned content",
+          "WRITING-GUIDE for prompts on how to get started with content",
+          "SOCIAL-MEDIA-CHECKLIST for a list of actions to take when releasing a video"
+        ]
+      ]
+    }
+  ]
+}

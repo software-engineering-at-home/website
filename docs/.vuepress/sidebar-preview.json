@@ -1,8 +1,19 @@
 [
   {
-    "title": "Home",
+    "title": "🏡 Home",
     "children": [
-      ""
+      "",
+      "TOPICS.md"
+    ]
+  },
+  {
+    "title": "📺 Channel Overview",
+    "children": [
+      "/channel/",
+      "/channel/000-Channel-Introduction.md",
+      "/channel/001-Topic-Overview-for-2021.md",
+      "/channel/WRITING-GUIDE.md",
+      "/channel/WRITING-TEMPLATE.md"
     ]
   },
   {
@@ -12,6 +23,13 @@
       "/components/01-icon-browser.md",
       "/components/02-formatting-components.md",
       "/components/03-networking-components.md"
+    ]
+  },
+  {
+    "title": "Team Building",
+    "children": [
+      "/team-building/",
+      "/team-building/000-Learning-by-Numbers.md"
     ]
   }
 ]
