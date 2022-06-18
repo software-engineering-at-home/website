@@ -2,7 +2,7 @@
   "name": "software-engineering-at-home-website",
   "title": "Software Engineering at Home",
   "version": "1.0.0",
-  "description": "A self hosted toolset for building interactive websites on top of Vuepress.",
+  "description": "A self hosted toolset for making content in the Software Engineering at Home organisation more accessible to internet users via mobile, and desktop devices.",
   "main": "first-time-setup.js",
   "directories": {
     "doc": "docs"

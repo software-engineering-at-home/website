@@ -1,10 +1,16 @@
-# Your new Vuesite!
+# Website for Software Engineering at Home
 
-A self hosted toolset for building interactive websites on top of Vuepress.
+A self hosted toolset for making content in the Software Engineering at Home organisation more accessible to internet users via mobile, and desktop devices.
 
 ![Preview of website - site name navigation, sidebar, front page content](./screenshot.png)
 
-## Features
+## Content
+
+Content for this website is sourced from the [software-engineering-at-home/content](https://github.com/software-engineering-at-home/content) repo.
+
+To work with this project locally, you'll need to check out the both the `website` and `content` folders into the same directory, as per the [software-engineering-at-home/ownership](https://github.com/software-engineering-at-home/ownership) instructions.
+
+## Project Features
 
 - Markdown driven website
 - Interactive Vue components as first class citizen
@@ -16,7 +22,7 @@ A self hosted toolset for building interactive websites on top of Vuepress.
 - Hosted via GitHub pages
 - Deployed automatically via GitHub Actions
 
-If setup correctly (see below); you should be able to access this site on:
+When setup correctly (see below); you should be able to access this site on:
 - https://software-engineering-at-home.github.io/website/
 
 ## Development Support
@@ -28,12 +34,11 @@ If setup correctly (see below); you should be able to access this site on:
 
 ## How to get started
 
-- Make sure you have the latest version [Node LTS](https://nodejs.org/en/) installed
-- Copy [this template in GitHub](https://github.com/software-engineering-at-home/website/generate)
-- Check out the code locally
-- Run: `npm install`
-- Run: `node first-time-setup.js`
-- Go to [Github > Settings > Pages](https://github.com/software-engineering-at-home/website/settings/pages) and enable publishing from the `gh-pages` branch
+- Follow the instructions over at [software-engineering-at-home/ownership](https://github.com/software-engineering-at-home/ownership)
+- Run `npm install` from the `website` directory
+- Run `npm start`
+
+You should now be able to view the site locally through your web browser.
 
 ## Licenses
 
