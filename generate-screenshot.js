@@ -80,7 +80,7 @@ async function takeScreenshot (url) {
   const screenshotFile = 'screenshot.png'
 
   report('Taking screenshot!')
-  const screenshotCommand = `npx capture-website ${url} --output ${screenshotFile} --width 800 --height 600 --delay 1 --overwrite`
+  const screenshotCommand = `npx capture-website ${url} --output ${screenshotFile} --width 1280 --height 800 --delay 1 --overwrite`
   report(`Running: ${screenshotCommand}`)
   const { stdout, stderr } = await run(screenshotCommand)
   if (!stderr) {
