@@ -1,4 +1,8 @@
-/* Run this from the root using: node models/parse-markdown-files.js */
+/* 
+  generate-json-from-markdown.js
+  Run this from the root using: npm run update-models
+  Create simplified JSON file representations of Markdown content for future use
+*/
 const { find, clean, make, read, write, position } = require('promise-path')
 const { convertMarkdownToDocument } = require('./utils/markdown2json')
 

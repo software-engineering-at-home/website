@@ -10,6 +10,7 @@
   "scripts": {
     "build": "vuepress build content",
     "deploy": "npm run build-vuepress && gh-pages -d content/.vuepress/dist -t true",
+    "update-models": "node models/generate-json-from-markdown.js",
     "start": "npm run vuepress",
     "test": "eslint '**/*.{js,vue}' --env mocha && npm run test:unit",
     "test:unit": "mocha test/unit/*.test.js",
