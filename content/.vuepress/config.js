@@ -9,6 +9,8 @@ async function generateVueConfig() {
     base,
     title: packageJson.title || packageJson.name,
     description: packageJson.description,
+    head: [
+    ],
     themeConfig: {
       nav: [
         { text: 'Home', link: '/' },
