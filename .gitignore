@@ -1,4 +1,4 @@
 node_modules
-docs/.vuepress/dist
+contents/.vuepress/dist
 temp/localStorage
 engine.bin

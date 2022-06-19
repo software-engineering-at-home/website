@@ -6,6 +6,6 @@ The intent is for developers to create, modify, and integrate components to suit
 
 ## Cleanup
 
-To hide the **Components** section from the sidebar; just delete this file (`docs/components/README.md`).
+To hide the **Components** section from the sidebar; just delete this file (`contents/components/README.md`).
 
 To remove the other component preview pages from the search; delete their corresponding markdown (`.md`) files.
