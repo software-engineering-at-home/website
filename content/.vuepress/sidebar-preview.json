@@ -7,6 +7,18 @@
     ]
   },
   {
+    "title": "🏃 Agile Delivery Practices",
+    "children": [
+      "/agile-delivery-practices/"
+    ]
+  },
+  {
+    "title": "📐 Architecture",
+    "children": [
+      "/architecture/"
+    ]
+  },
+  {
     "title": "📺 Channel Overview",
     "children": [
       "/channel/",
@@ -17,7 +29,61 @@
     ]
   },
   {
-    "title": "Team Building",
+    "title": "☁️ Cloud Based Infrastructure",
+    "children": [
+      "/cloud-based-infrastructure/"
+    ]
+  },
+  {
+    "title": "🖥️ Computer Science",
+    "children": [
+      "/computer-science/"
+    ]
+  },
+  {
+    "title": "🔎 Monitoring and Alerts",
+    "children": [
+      "/monitoring-and-alerts/"
+    ]
+  },
+  {
+    "title": "🏡 Organisational Structures",
+    "children": [
+      "/organisational-structures/"
+    ]
+  },
+  {
+    "title": "⌨️ Programming",
+    "children": [
+      "/programming/"
+    ]
+  },
+  {
+    "title": "🔣 Programming Languages",
+    "children": [
+      "/programming-languages/"
+    ]
+  },
+  {
+    "title": "🛎️ Service Design",
+    "children": [
+      "/service-design/"
+    ]
+  },
+  {
+    "title": "🌱 Software Delivery Lifecycle",
+    "children": [
+      "/software-delivery-lifecycle/"
+    ]
+  },
+  {
+    "title": "🧪 Software Testing",
+    "children": [
+      "/software-testing/"
+    ]
+  },
+  {
+    "title": "🚧 Team Building",
     "children": [
       "/team-building/",
       "/team-building/000-Learning-by-Numbers.md"
