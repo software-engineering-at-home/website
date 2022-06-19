@@ -1,5 +1,5 @@
 const { expect } = require('chai')
-const sharedModel = require('../../contents/components/models/sharedStore')
+const sharedModel = require('../../content/components/models/sharedStore')
 
 describe('Shared store model', () => {
   it('should expose the expected methods', () => {

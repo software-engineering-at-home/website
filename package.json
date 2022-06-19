@@ -5,16 +5,16 @@
   "description": "A self hosted toolset for making content in the Software Engineering at Home organisation more accessible to internet users via mobile, and desktop devices.",
   "main": "first-time-setup.js",
   "directories": {
-    "doc": "contents"
+    "doc": "content"
   },
   "scripts": {
-    "build": "vuepress build contents",
-    "deploy": "npm run build-vuepress && gh-pages -d contents/.vuepress/dist -t true",
+    "build": "vuepress build content",
+    "deploy": "npm run build-vuepress && gh-pages -d content/.vuepress/dist -t true",
     "start": "npm run vuepress",
     "test": "eslint '**/*.{js,vue}' --env mocha && npm run test:unit",
     "test:unit": "mocha test/unit/*.test.js",
     "lint": "standard --fix --env mocha && eslint --fix '**/*.{js,vue}' --env mocha",
-    "vuepress": "vuepress dev contents"
+    "vuepress": "vuepress dev content"
   },
   "repository": {
     "type": "git",
