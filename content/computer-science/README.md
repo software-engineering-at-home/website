@@ -9,7 +9,7 @@ Where maths and electronics meet; computer science emerges; there are a huge num
 - Memory
 - Byte Code
 - Simple Data vs Pointers
-- JSON
-- XML
-- CPU Threads
+- Java Script Object Notation (JSON)
+- Extensible Markup Language (XML)
+- Concurrency and Threads
 - ...

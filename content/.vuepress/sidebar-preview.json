@@ -9,21 +9,37 @@
   {
     "title": "🏃 Agile Delivery Practices",
     "children": [
-      "/agile-delivery-practices/"
+      "/agile-delivery-practices/",
+      "/agile-delivery-practices/001-scrum.md",
+      "/agile-delivery-practices/002-kanban.md",
+      "/agile-delivery-practices/003-make-your-queues-visible.md",
+      "/agile-delivery-practices/004-culmulative-flow-diagrams.md",
+      "/agile-delivery-practices/005-cost-of-delay.md",
+      "/agile-delivery-practices/006-prioritisation.md",
+      "/agile-delivery-practices/007-estimation.md",
+      "/agile-delivery-practices/008-communication.md",
+      "/agile-delivery-practices/009-retrospectives.md",
+      "/agile-delivery-practices/010-shift-left.md"
     ]
   },
   {
     "title": "📐 Architecture",
     "children": [
-      "/architecture/"
+      "/architecture/",
+      "/architecture/001-architecture-for-programmers.md",
+      "/architecture/002-drawing-diagrams.md",
+      "/architecture/003-event-based-systems.md",
+      "/architecture/004-data-lakes.md",
+      "/architecture/005-domain-driven-design.md",
+      "/architecture/006-domain-driven-objects.md"
     ]
   },
   {
     "title": "📺 Channel Overview",
     "children": [
       "/channel/",
-      "/channel/000-Channel-Introduction.md",
-      "/channel/001-Topic-Overview-for-2021.md",
+      "/channel/001-Channel-Introduction.md",
+      "/channel/002-Topic-Overview-for-2021.md",
       "/channel/WRITING-GUIDE.md",
       "/channel/WRITING-TEMPLATE.md"
     ]
@@ -31,62 +47,147 @@
   {
     "title": "☁️ Cloud Based Infrastructure",
     "children": [
-      "/cloud-based-infrastructure/"
+      "/cloud-based-infrastructure/",
+      "/cloud-based-infrastructure/001-aws.md",
+      "/cloud-based-infrastructure/002-google-cloud.md",
+      "/cloud-based-infrastructure/003-microsoft-azure.md",
+      "/cloud-based-infrastructure/004-infrastructure-as-code.md",
+      "/cloud-based-infrastructure/005-going-serverless.md"
     ]
   },
   {
     "title": "🖥️ Computer Science",
     "children": [
-      "/computer-science/"
+      "/computer-science/",
+      "/computer-science/001-algorithms.md",
+      "/computer-science/002-data-structures.md",
+      "/computer-science/003-memory.md",
+      "/computer-science/004-byte-code.md",
+      "/computer-science/005-simple-data-vs-pointers.md",
+      "/computer-science/006-json.md",
+      "/computer-science/007-xml.md",
+      "/computer-science/008-concurrency-and-threads.md"
     ]
   },
   {
     "title": "🔎 Monitoring and Alerts",
     "children": [
-      "/monitoring-and-alerts/"
+      "/monitoring-and-alerts/",
+      "/monitoring-and-alerts/001-why-monitor.md",
+      "/monitoring-and-alerts/002-why-setup-alerts.md",
+      "/monitoring-and-alerts/003-creating-good-alerts.md",
+      "/monitoring-and-alerts/004-triaging-issues.md",
+      "/monitoring-and-alerts/005-monitoring-tools.md",
+      "/monitoring-and-alerts/006-creating-graphs-and-charts.md",
+      "/monitoring-and-alerts/007-inspecting-data-over-time.md",
+      "/monitoring-and-alerts/008-good-dashboards.md",
+      "/monitoring-and-alerts/009-using-your-log-data-wisely.md",
+      "/monitoring-and-alerts/010-measure-what-matters.md"
     ]
   },
   {
     "title": "🏡 Organisational Structures",
     "children": [
-      "/organisational-structures/"
+      "/organisational-structures/",
+      "/organisational-structures/001-the-org-chart.md",
+      "/organisational-structures/002-line-of-reporting.md",
+      "/organisational-structures/003-role-of-management-in-developing-talent.md",
+      "/organisational-structures/004-matrix-organisations.md",
+      "/organisational-structures/005-teams-vs-specialists.md"
     ]
   },
   {
     "title": "⌨️ Programming",
     "children": [
-      "/programming/"
+      "/programming/",
+      "/programming/001-callbacks-promises-and-async-await.md",
+      "/programming/002-program-strsucture.md",
+      "/programming/003-code-architecture.md",
+      "/programming/004-object-orientated-programming.md",
+      "/programming/005-functional-programming.md",
+      "/programming/006-non-functional-side-effects.md",
+      "/programming/007-code-that-changes-together-should-live-together.md",
+      "/programming/008-deletability.md",
+      "/programming/009-coupling-and-cohesion.md",
+      "/programming/010-javascript-is-a-synchronous-language.md",
+      "/programming/011-asynchronous-applications-using-javascript.md",
+      "/programming/012-creating-restful-apis.md"
     ]
   },
   {
     "title": "🔣 Programming Languages",
     "children": [
-      "/programming-languages/"
+      "/programming-languages/",
+      "/programming-languages/001-dot-net-basics.md",
+      "/programming-languages/002-bash-basics.md",
+      "/programming-languages/003-c++-basics.md",
+      "/programming-languages/004-java-basics.md",
+      "/programming-languages/005-javascript-basics.md",
+      "/programming-languages/006-java-does-not-equal-javascript.md",
+      "/programming-languages/007-python-basics.md"
     ]
   },
   {
     "title": "🛎️ Service Design",
     "children": [
-      "/service-design/"
+      "/service-design/",
+      "/service-design/001-products-vs-services.md",
+      "/service-design/002-good-services.md",
+      "/service-design/003-supporting-services-with-software.md",
+      "/service-design/004-separating-software-tools-from-the-services-they-provide.md",
+      "/service-design/005-service-catalogues.md",
+      "/service-design/006-measuring-the-success-of-a-service.md"
     ]
   },
   {
     "title": "🌱 Software Delivery Lifecycle",
     "children": [
-      "/software-delivery-lifecycle/"
+      "/software-delivery-lifecycle/",
+      "/software-delivery-lifecycle/001-there-is-an-infinite-amount-of-value-to-be-created.md",
+      "/software-delivery-lifecycle/002-continuous-integration.md",
+      "/software-delivery-lifecycle/003-build-pipelines.md",
+      "/software-delivery-lifecycle/004-source-control.md",
+      "/software-delivery-lifecycle/005-your-code-as-a-crime-scene.md",
+      "/software-delivery-lifecycle/006-pull-requests.md",
+      "/software-delivery-lifecycle/007-code-reviews.md",
+      "/software-delivery-lifecycle/008-code-as-a-product.md",
+      "/software-delivery-lifecycle/009-long-term-maintenance.md",
+      "/software-delivery-lifecycle/010-load-testing.md",
+      "/software-delivery-lifecycle/011-non-functional-requirements.md"
     ]
   },
   {
     "title": "🧪 Software Testing",
     "children": [
-      "/software-testing/"
+      "/software-testing/",
+      "/software-testing/001-why-test.md",
+      "/software-testing/002-unit-testing.md",
+      "/software-testing/003-integration-testing.md",
+      "/software-testing/004-schemas-tests.md",
+      "/software-testing/005-contract-testing.md",
+      "/software-testing/006-api-testing.md",
+      "/software-testing/007-smoke-tests.md",
+      "/software-testing/008-test-driven-development.md",
+      "/software-testing/009-behaviour-driven-development.md",
+      "/software-testing/010-tdd-and-bdd-the-same-thing.md",
+      "/software-testing/011-when-to-manually-test.md",
+      "/software-testing/012-when-to-automate-testing.md"
     ]
   },
   {
     "title": "🚧 Team Building",
     "children": [
       "/team-building/",
-      "/team-building/000-Learning-by-Numbers.md"
+      "/team-building/001-Learning-by-Numbers.md",
+      "/team-building/002-vision-and-goals.md",
+      "/team-building/003-quarterly-objectives-and-key-results-okrs.md",
+      "/team-building/004-strategy-vs-tactics.md",
+      "/team-building/005-camaraderie-comradery.md",
+      "/team-building/006-team-branding.md",
+      "/team-building/007-psychological-safety.md",
+      "/team-building/008-fun-things.md",
+      "/team-building/009-team-health.md",
+      "/team-building/010-roles-and-responsibilities.md"
     ]
   }
 ]

@@ -1,0 +1,1 @@
+# There is an infinite amount of value to be created

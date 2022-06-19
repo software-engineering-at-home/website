@@ -4,7 +4,7 @@ How do you negotiate with others to bring a group of people together to share a 
 
 ### In this section
 
-- 🔢 [Learning by Numbers](./team-building/000-Learning-by-Numbers.md)
+- 🔢 [Learning by Numbers](./team-building/001-Learning-by-Numbers.md)
 - Vision and Goals
 - Quarterly objectives and key results (OKRs)
 - Strategy vs Tactics

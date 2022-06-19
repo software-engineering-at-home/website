@@ -8,4 +8,6 @@ Ways of assesssing, structuring, and designing software so that programs (no mat
 - Drawing diagrams
 - Event based systems
 - Data lakes
+- Domain driven design
+- Domain driven objects
 - ...

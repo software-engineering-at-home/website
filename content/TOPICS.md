@@ -27,8 +27,8 @@ Helping the audience understand the content available, and support the operation
 
 ### In this section
 
-- 📙 [Channel Introduction](./channel/000-Channel-Introduction.md)
-- 📘 [Topic Overview](./channel/001-Topic-Overview-for-2021.md)
+- 📙 [Channel Introduction](./channel/001-Channel-Introduction.md)
+- 📘 [Topic Overview](./channel/002-Topic-Overview-for-2021.md)
 - ✏️ [Writing Guide](./channel/WRITING-GUIDE.md)
 - 📝 [Writing Template](./channel/WRITING-TEMPLATE.md)
 - ...
@@ -215,7 +215,7 @@ How do you negotiate with others to bring a group of people together to share a 
 
 ### In this section
 
-- 🔢 [Learning by Numbers](./team-building/000-Learning-by-Numbers.md)
+- 🔢 [Learning by Numbers](./team-building/001-Learning-by-Numbers.md)
 - Vision and Goals
 - Quarterly objectives and key results (OKRs)
 - Strategy vs Tactics

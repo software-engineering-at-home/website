@@ -4,8 +4,8 @@ Helping the audience understand the content available, and support the operation
 
 ### In this section
 
-- 📙 [Channel Introduction](./000-Channel-Introduction.md)
-- 📘 [Topic Overview](./001-Topic-Overview-for-2021.md)
+- 📙 [Channel Introduction](./001-Channel-Introduction.md)
+- 📘 [Topic Overview](./002-Topic-Overview-for-2021.md)
 - ✏️ [Writing Guide](../WRITING-GUIDE.md)
 - 📝 [Writing Template](../WRITING-TEMPLATE.md)
 - ...

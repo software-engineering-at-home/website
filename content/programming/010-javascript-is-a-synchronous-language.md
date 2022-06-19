@@ -1,0 +1,1 @@
+# JavaScript is a synchronous language
