@@ -1,0 +1,97 @@
+{
+  "sections": [
+    {
+      "title": "Formatting components",
+      "items": [
+        "This page demonstrates formatting components that can be used to present content in a consistent way."
+      ]
+    },
+    {
+      "title": "Card component",
+      "items": [
+        "Wrap up some content in a box with a title.",
+        "Card contents"
+      ]
+    },
+    {
+      "title": "Collapsed component",
+      "items": [
+        "Hide content away in a collapsed component.",
+        "Hidden card contents"
+      ]
+    },
+    {
+      "title": "Error Formatter",
+      "items": [
+        "Text formatting and advice for errors that might occur while using interactive components."
+      ]
+    },
+    {
+      "title": "Expiry",
+      "items": [
+        "Format a date as a colour coded time relative to the current browser time.",
+        "Similar in function to the Relative Date component."
+      ]
+    },
+    {
+      "title": "Messages",
+      "items": [
+        "Format a list of items as a series of paragraphs."
+      ]
+    },
+    {
+      "title": "Paginated Items",
+      "items": [
+        "The paginated items formatter reduces the number of items to the page size, calculates the number of pages, and provides a filter to search for a specific item. It can be used to create a filterable, multi-page view of large datasets using a custom renderer.",
+        "{{ item }}",
+        [
+          "{{ item }}"
+        ]
+      ]
+    },
+    {
+      "title": "Relative Date",
+      "items": [
+        "Format a date as a colour coded time relative to the the current browser time.",
+        "Similar in function to the Expiry component."
+      ]
+    },
+    {
+      "title": "Response Formatter",
+      "items": [
+        "Format a data object as prettified JSON."
+      ]
+    },
+    {
+      "title": "Icon component",
+      "items": [
+        "Display an SVG icon matching the inline font-size.",
+        "Search using the Icon Browser; then use <Icon icon=\"name\"> where you want the icon to show up."
+      ]
+    },
+    {
+      "title": "Icon in Heading",
+      "items": [
+        "Icon in Paragraph",
+        [
+          "Icon in List item"
+        ]
+      ]
+    },
+    {
+      "title": "Tabulation",
+      "items": [
+        "Take a list of of objects and display them as an interactive table.",
+        "Can be customised with partial columns, and custom render logic on a per-cell basis.",
+        ""
+      ]
+    },
+    {
+      "title": "TODO component",
+      "items": [
+        "Mark up things still to be done in a standard box.",
+        "Item 1\nItem 2"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "sections": [
+    {
+      "title": "🏡 Home",
+      "items": [
+        ""
+      ]
+    },
+    {
+      "title": "🌄 Why",
+      "items": [
+        "Content to teach the world about software, programming, and engineering topics of interest - to engage with excellence and the distribution of great ideas."
+      ]
+    },
+    {
+      "title": "🌋 How",
+      "items": [
+        "To help put together this knowledge; the software-engineering-at-home organisation, has been created as a home for content - such that topics about software, programming, and engineering can be brought together and made available through GitHub, Twitter, and YouTube."
+      ]
+    },
+    {
+      "title": "🏔️ What",
+      "items": [
+        "This website; the Github repository, the YouTube channel, the Twitter page. The content, the users, the feedback you give me!"
+      ]
+    }
+  ]
+}

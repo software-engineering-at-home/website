@@ -1,0 +1,22 @@
+{
+  "sections": [
+    {
+      "title": "📺 Channel Overview",
+      "items": [
+        "Helping the audience understand the content available, and support the operation of the YouTube channel, including introductions, annoucements, updates, and the like."
+      ]
+    },
+    {
+      "title": "In this section",
+      "items": [
+        [
+          "📙 Channel Introduction",
+          "📘 Topic Overview",
+          "✏️ Writing Guide",
+          "📝 Writing Template",
+          "..."
+        ]
+      ]
+    }
+  ]
+}
