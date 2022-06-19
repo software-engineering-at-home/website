@@ -6,6 +6,12 @@ The intent is for developers to create, modify, and integrate components to suit
 
 ## Cleanup
 
-To hide the **Components** section from the sidebar; just delete this file (`content/components/README.md`).
+To show the **Components** section in the sidebar; just rename this file to (`content/components/README.md`).
 
 To remove the other component preview pages from the search; delete their corresponding markdown (`.md`) files.
+
+## Components Pages
+
+- [Icon Browser](./01-icon-browser.md)
+- [Formatting Components](./02-formatting-components.md)
+- [Networking Components](./03-networking-components.md)

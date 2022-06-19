@@ -12,7 +12,6 @@ async function generateVueConfig() {
     themeConfig: {
       nav: [
         { text: 'Home', link: '/' },
-        { text: 'Components', link: '/components/' },
         { text: 'Github', link: packageJson.homepage }
       ],
       sidebar: await generateSidebar()
