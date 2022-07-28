@@ -43,6 +43,7 @@ const iconSizes = [{
 function makeIconLinksInAllSizes(iconSizes) {
   const result = [
     ['link', { rel: "shortcut icon", href: "/favicon.ico"}],
+    ['link', { rel: 'stylesheet', type: 'text/css', href: 'https://fonts.googleapis.com/css?family=Ubuntu+Mono' }],
     ['meta', { name: "msapplication-TileColor", content: "#EECE61"}],
     ['meta', { name: "msapplication-config", content: "/ms-icon-144x144.png"}],
     ['meta', { name: "theme-color", content: "#EECE61"}]
