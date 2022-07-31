@@ -4,7 +4,7 @@ Kanban in the context of Software Engineering is the process of pulling work in 
 
 The important principle of Kanban, is that when a work item is moved, it leaves a gap, revealing a location and instruction; a request for more work. In this regard, Kanban forms a pull based system of delivery, focused on delivering value in flow before creating new work.
 
-In the Kanban process, an understanding of queue theory is important - queues are important in managing flow, and a founding principle of Kanban is "make your work visible". Hidden work is carried by individuals from place to place, but physical work can be seen in progress, moving around the factory. In Software, the visual representation of this is ticket management boards, where we can see the work flowing from conception, through to development, release, and delivery. 
+In the Kanban process, an understanding of queue theory is important - queues are important in managing flow, and a founding principle of Kanban is ["make your work visible"](./003-make-your-queues-visible.md). Hidden work is carried by individuals from place to place, but physical work can be seen in progress, moving around the factory. In Software, the visual representation of this is ticket management boards, where we can see the work flowing from conception, through to development, release, and delivery. 
 
 ## 📋 The Kanban board
 
