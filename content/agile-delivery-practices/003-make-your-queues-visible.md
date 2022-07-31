@@ -4,6 +4,28 @@ This rather dry seeming subject is super important. We are burdened by glorious 
 
 Todo lists are a type of queue. A list of things, ordered in the order they come out of your head, tasks that may need to be done, or not; but they're queued up on a piece of paper, or a whiteboard, or as items in your phone's memory.
 
+| TODO list    |
+| ------------ | 
+| Shopping     |
+| Bins out     |
+| Doctors      |
+| Cinema       |
+| Swimming     |
+
+If we were being super organised, this could be refined and ordered:
+
+| Day       | Time | TODO     |
+| --------- | ---- | -------- | 
+| Monday    | 6pm  |Shopping  |
+| Tuesday   | 7am  | Bins out |
+|           | 3pm  | Doctors  |
+| Wednesday | 7pm  | Cinema   |
+|           | 8pm  | Swimming |
+
+(Don't ask how we're doing Cinema AND Swimming on Wednesday, we might have a conflict!)
+
+## 🚋 Physical Queues
+
 There are other more physical queues as well, queues in line at the supermarket, or post office.  Boxes awaiting click-and-collect. Traffic queues trying to get out of the carpark to head home.
 
 Back to the more esoteric - what about all of the cars already parked outside a store? What about the number of outstanding orders that haven't been fulfilled? What about the record of errors for bad website requests on the hard drive of your server?
