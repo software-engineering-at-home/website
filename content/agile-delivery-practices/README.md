@@ -4,14 +4,14 @@ Ways of working; processess and practices that would be considered agile, and ho
 
 ### In this section
 
-- Scrum
-- Kanban
-- Make your queues visible
-- Cumulative Flow Diagrams
-- Cost of Delay
-- Prioritisation
-- Estimation
-- Communication
-- Retrospectives
-- Shift left
+- [🏉 Scrum](./001-scrum.md)
+- [🎫 Kanban](./002-kanban.md)
+- [Make your queues visible](./003-make-your-queues-visible.md)
+- [Cumulative Flow Diagrams](./004-culmulative-flow-diagrams.md)
+- [Cost of Delay](./005-cost-of-delay.md)
+- [Prioritisation](./006-prioritisation.md)
+- [Estimation](./007-estimation.md)
+- [Communication](./008-communication.md)
+- [Retrospectives](./009-retrospectives.md)
+- [Shift left](./010-shift-left.md)
 - ...

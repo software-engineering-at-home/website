@@ -1,10 +1,10 @@
-# Scrum
+# 🏉 Scrum
 
 Scrum is a way to organise teams to meet regularly, and plan work, such that delivery of software becomes a predictable, empirical, and consistent process. Depending where you work, you'll get different flavours and elements of Scrum - such as standups, work managed via a ticket management system, perhaps using two weekly planning and delivery cycles called Sprints. Some teams like to do retrospectives. There are key roles to play the Scrum game - a Product Owner, Developers, a Scrum Master. There are shared goals that are self-orientated by the team based on their understanding of the problem space.
 
-## Key Roles
+## 🧶 Key Roles
 
-### Product Owner
+### 🏓 Product Owner
 
 The face of the team to stakeholders; responsible for:
 - Defining and announcing releases
@@ -14,7 +14,7 @@ The face of the team to stakeholders; responsible for:
 - Negotiate priorities, scope, funding, and schedules
 - Ensure that the product backlog is visible, easily understood, and well communicated
 
-### Team Members
+### 🏗️ Team Members
 
 A team might be a cross-functional team of programmers, engineers, operations, testers, business analysts, data scientists... whatever the job title, team members are the people who work towards a common goal of delivering useful increments of value each sprint.
 
@@ -26,7 +26,7 @@ Team members are responsible for:
 - Making sure the work is done correctly
 - Keeping the state of work up-to-date
 
-### Scrum master
+### 🦺 Scrum master
 
 Scrum is facilitated by a scrum master. This is rarely a dedicated role, but it is an accountable individual who is responsible for removing impediments (blockers) that might prevent the team from delivering product goals and deliverables. 
 
@@ -41,19 +41,22 @@ Scrum masters are responsible for:
 
 >The scrum master helps people and organizations adopt empirical and lean thinking, leaving behind hopes for certainty and predictability.
 
-## Definitions from other sources
+## 📖 Definitions of Scrum from other sources
 
 ### Wikipedia
+
 >Scrum or SCRUM, is a framework for project management, with an initial emphasis on software development. 
 
 >Scrum is designed for teams of ten or fewer members, who break their work into goals that can be completed within time-boxed iterations, called sprints, no longer than one month and most commonly two weeks. The scrum team assesses progress in time-boxed daily meetings of 15 minutes or fewer, called daily scrums (a form of stand-up meeting). At the end of the sprint, the team holds two further meetings: the sprint review which demonstrates the work done to stakeholders to elicit feedback, and sprint retrospective which enables the team to reflect and improve.
 
 ### Value Flow Quality
+
 >Scrum describes itself as a ‘framework’ for developing and sustaining complex products.
 
 >Scrum is positioned as a process framework within which small teams can design and sustain complex products to effectively deliver the highest value.
 
 ### Scrum.org
+
 >In a nutshell, Scrum requires a Scrum Master to foster an environment where:
 > - A Product Owner orders the work for a complex problem into a Product Backlog.
 > - The Scrum Team turns a selection of the work into an Increment of value during a Sprint.
